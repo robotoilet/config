@@ -1,1 +1,1 @@
-configiration setiings
+configuration setiings
